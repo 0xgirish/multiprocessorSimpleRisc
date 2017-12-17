@@ -16,11 +16,13 @@ Instruction Added for multiprocessor simulation:
         3. Procid
     explaination :
         1. SEV :- SEV takes an N bit number  e.g. SEV 10101
-                  //here core is sending event to cores with core id 4, 2 & 0. (because 0th, 2nd, and 4th bits are 1)
+                  here core is sending event to cores with core id 4, 2 & 0. (because 0th, 2nd, and 4th bits are 1)
+                  
         2. WFE :- WFE has similar pattern. e.g. WFE 10101
-                  //here core which is executing above instruction is waiting for event from cores with core id 4 ,2 & 0.
+                  here core which is executing above instruction is waiting for event from cores with core id 4 ,2 & 0.
+                  
         3.Procid:-Procid instrcution takes one argument,core id for which next instruction is being executed.
-                   e.g. Procid 2        // now next instruction will be executed by core with core id 2.
+                   e.g. Procid 2         now next instruction will be executed by core with core id 2.
                    
 *other instrcutions are same as of Simple-RISC ISA.
 *Currently multiprocessor simulator doesn't assume data lock condition.
