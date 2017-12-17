@@ -10,7 +10,6 @@ There is point to point complete network between NxN processors for sending SEV 
 To avoid data synchronization problems, processor assumes only single cycle implementation.
 
 Instruction Added for multiprocessor simulation:
-        These following instruction have been added.
         
         1. WFE
         2. SEV
