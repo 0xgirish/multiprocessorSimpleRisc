@@ -2,7 +2,7 @@
 
 Developed By :
         Naman Goyal     (email: 2015csb1021@iitrpr.ac.in)
-        Girish Kumar    (email: 2016csb1040@iitprp.ac.in)
+        Girish Kumar    (email: 2016csb1040@iitrpr.ac.in)
         Siddharth Nahar (email: 2016csb1043@iitrpr.ac.in)
 Supervised By :
         Dr. Neeraj Goel (email: neeraj@iitrpr.ac.in)
