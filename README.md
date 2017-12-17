@@ -27,13 +27,12 @@ Instruction Added for multiprocessor simulation:
         3.Procid:-Procid instrcution takes one argument,core id for which next instruction is being executed.
                    e.g. Procid 2         now next instruction will be executed by core with core id 2.
                    
-*other instrcutions are same as of Simple-RISC ISA.
-*Currently multiprocessor simulator doesn't assume data lock condition.
 
-*Note :
+Note :
 
-  Currently multiprocessor simulator has 5 cores. Which can be changed in the file simulator/RISC-Simulator-master/include/Global.h
-  (chnage NUM_CORES)
+        *Currently multiprocessor simulator has 5 cores. Which can be changed in the file simulator/RISC-Simulator-master/include/Global.h      (chnage NUM_CORES)
+        *other instrcutions are same as of Simple-RISC ISA.
+        *Currently multiprocessor simulator doesn't assume data lock condition.
 
 Developed By :
 
