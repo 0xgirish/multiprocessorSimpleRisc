@@ -14,7 +14,9 @@
  * You should have received a copy of the GNU General Public License
  * along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
  *
- * Authors: Naman Goyal (email: 2015csb1021@iitrpr.ac.in)
+ * Authors: Naman Goyal   (email: 2015csb1021@iitrpr.ac.in)
+ *	    Girish Kumar  (email: 2016csb1040@iitrpr.ac.in)
+ *	    Sidharth Nahar(email: 2016csb1043@iitprp.ac.in)
  */
 
 #ifndef CORE_H
