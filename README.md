@@ -24,7 +24,7 @@ Instruction Added for multiprocessor simulation:
                   here core which is executing above instruction is waiting for event from cores with core id 4 ,2 & 0.
                   
         3.Procid:-Procid instrcution takes one argument,core id for which next instruction is being executed.
-                   e.g. Procid 2         now next instruction will be executed by core with core id 2.
+                   e.g. Procid 2 now next instruction will be  executed by core with core id 2.
                    
 
 Note :
